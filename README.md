@@ -9,12 +9,7 @@ Bu bot, kullanıcıların sticker ve GIF gönderimini kontrol etmek için geliş
 
 ## Kurulum
 - Gerekli bağımlılıkları yükleyin.
-```bash
-   npm install
    
-
-
-
 ## Bu projeyi klonlayın:
    ```bash
    git clone https://github.com/username/telegram-lock-bot.git
